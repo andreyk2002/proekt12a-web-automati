@@ -1,0 +1,16 @@
+.book-form-icon
+{
+    width: 30px;
+    height:30px;
+    border-radius: 15px;
+}
+
+.remove-button
+{
+    width: 30px;
+    height: 30px;
+}
+
+li {
+    list-style-type: none;
+}
